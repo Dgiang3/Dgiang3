@@ -1,4 +1,10 @@
-### Hi there 👋
+### Profile
+My name is Dat Giang, and I'm currently a fourth year Electrical Engineering student at California State University, Los Angeles (CSULA). My specialization is in computer engineering, and I am interested in pursuing a career in embedded systems. Specifically, the type of work that I would hope to do involves creating a smarter home that is interconnected through the internet of things (IoT) devices. While I'm not working on projects, I like to make notes using TeX Studio + MikTeX Console to make neatly formatted LaTeX documents to help out other students learn about different concepts within electrical engineering or mathematics. A few of my hobbies include:
+
+- Gaming
+- Note-making with LaTeX
+- Story Writing
+- Experimenting with different circuits using breadboards
 
 <!--
 **Dgiang3/Dgiang3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
